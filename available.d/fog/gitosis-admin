@@ -1,0 +1,2 @@
+[$HOME/vr/fog/gitosis-admin]
+checkout = git clone 'ssh://gitosis@fog.cs.bath.ac.uk/gitosis-admin' 'gitosis-admin'

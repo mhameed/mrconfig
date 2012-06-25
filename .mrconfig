@@ -4,3 +4,4 @@ jobs = 5
 include = cat /usr/share/mr/*
 
 include = cat ~/vr/mr/enabled.d/*
+include = cat ~/vr/mr/enabled.d/*/*

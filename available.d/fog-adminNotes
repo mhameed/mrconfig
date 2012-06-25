@@ -1,2 +1,0 @@
-[$HOME/vr/fog-adminNotes]
-checkout = git clone 'ssh://gitosis@fog.cs.bath.ac.uk/adminNotes' 'fog-adminNotes'
