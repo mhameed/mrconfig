@@ -1,0 +1,2 @@
+[$HOME/vr/liblouis-tables]
+checkout = git clone 'git@github.com:mhameed/liblouis-tables.git' 'liblouis-tables'

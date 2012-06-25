@@ -1,0 +1,2 @@
+[$HOME/vr/django-gitcms]
+checkout = git clone 'git@github.com:mhameed/django-gitcms.git' 'django-gitcms'

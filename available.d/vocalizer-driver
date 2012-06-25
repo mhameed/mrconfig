@@ -1,0 +1,2 @@
+[$HOME/vr/vocalizer-driver]
+checkout = git clone 'http://vocalizer.unreliabledevice.net/git/vocalizer-driver.git' 'vocalizer-driver'

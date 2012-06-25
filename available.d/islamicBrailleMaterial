@@ -1,0 +1,2 @@
+[$HOME/vr/islamicBrailleMaterial]
+checkout = git clone 'git@github.com:mhameed/IslamicBrailleMaterial.git' 'islamicBrailleMaterial'

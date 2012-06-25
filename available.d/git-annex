@@ -1,0 +1,2 @@
+[$HOME/vr/git-annex]
+checkout = git clone 'git://git-annex.branchable.com/' 'git-annex'

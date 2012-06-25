@@ -1,0 +1,2 @@
+[$HOME/vr/skypetalking]
+checkout = hg clone 'https://bitbucket.org/HKatic/skypetalking' 'skypetalking'

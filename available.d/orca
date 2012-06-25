@@ -1,0 +1,2 @@
+[$HOME/vr/orca]
+checkout = git clone 'git://git.gnome.org/orca' 'orca'
