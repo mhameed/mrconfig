@@ -1,0 +1,3 @@
+[$HOME/vr/annex]
+checkout = git clone git@bitbucket.org:mhameed/annex.git
+add = git annex add "$@"
