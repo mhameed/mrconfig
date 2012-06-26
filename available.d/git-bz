@@ -1,0 +1,3 @@
+
+[$HOME/vr/git-bz]
+checkout = git clone 'git://git.fishsoup.net/git-bz' 'git-bz'

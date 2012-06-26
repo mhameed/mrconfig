@@ -1,0 +1,3 @@
+
+[$HOME/vr/cm10227]
+checkout = git svn clone 'http://alis.cs.bath.ac.uk/svn/cm10227' 'cm10227'

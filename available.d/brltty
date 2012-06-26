@@ -1,0 +1,3 @@
+
+[$HOME/vr/brltty]
+checkout = svn co 'svn://mielke.cc/main/brltty' 'brltty'

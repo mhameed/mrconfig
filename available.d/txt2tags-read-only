@@ -1,0 +1,3 @@
+
+[$HOME/vr/txt2tags-read-only]
+checkout = git svn clone 'http://txt2tags.googlecode.com/svn' 'txt2tags-read-only'

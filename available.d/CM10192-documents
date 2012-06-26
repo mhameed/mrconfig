@@ -1,0 +1,3 @@
+
+[$HOME/vr/CM10192-documents]
+checkout = svn co 'https://vcs.bath.ac.uk/svn/CM10192-documents' 'CM10192-documents'

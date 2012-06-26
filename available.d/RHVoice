@@ -1,0 +1,3 @@
+
+[$HOME/vr/RHVoice]
+checkout = git clone 'https://github.com/Olga-Yakovleva/RHVoice.git' 'RHVoice'

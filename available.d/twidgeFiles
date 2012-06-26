@@ -1,0 +1,2 @@
+[$HOME/vr/twidgeFiles]
+checkout = svn co 'svn+ssh://cs3mmh@lcpu.bath.ac.uk/u/v1/cs3mmh/svnRoots/twidgeFiles' 'twidgeFiles'

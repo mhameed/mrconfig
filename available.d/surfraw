@@ -1,0 +1,3 @@
+
+[$HOME/vr/surfraw]
+checkout = git clone 'git://git.debian.org/surfraw/surfraw.git' 'surfraw'

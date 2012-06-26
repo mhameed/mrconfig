@@ -1,3 +1,0 @@
-
-[$HOME/vr/gnome/nautilus]
-checkout = git clone 'ssh://mhameed@git.gnome.org/git/nautilus' 'nautilus'

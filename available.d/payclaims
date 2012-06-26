@@ -1,0 +1,3 @@
+
+[$HOME/vr/payclaims]
+checkout = git clone 'git+ssh://lcpu/u/v1/cs3mmh/gitroots/pc' 'payclaims'

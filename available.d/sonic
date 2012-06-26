@@ -1,0 +1,2 @@
+[$HOME/vr/sonic]
+checkout = git clone 'git://github.com/waywardgeek/sonic.git' 'sonic'

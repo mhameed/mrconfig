@@ -1,0 +1,3 @@
+
+[$HOME/vr/shell-fm]
+checkout = git clone 'git://github.com/jkramer/shell-fm.git' 'shell-fm'

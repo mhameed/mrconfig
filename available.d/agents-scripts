@@ -1,0 +1,3 @@
+
+[$HOME/vr/agents-scripts]
+checkout = git svn clone 'https://alis.cs.bath.ac.uk/svn/agentsadmin/scripts' 'agents-scripts'

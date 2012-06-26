@@ -1,3 +1,0 @@
-
-[$HOME/vr/gnome/gtranslator]
-checkout = git clone 'git://git.gnome.org/gtranslator' 'gtranslator'

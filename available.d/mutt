@@ -1,0 +1,3 @@
+
+[$HOME/vr/mutt]
+checkout = hg clone 'http://dev.mutt.org/hg/mutt' 'mutt'

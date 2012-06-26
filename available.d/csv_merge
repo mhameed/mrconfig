@@ -1,0 +1,3 @@
+
+[$HOME/vr/csv_merge]
+checkout = git clone 'https://github.com/fjc/csv_merge.git' 'csv_merge'

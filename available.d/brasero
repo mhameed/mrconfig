@@ -1,0 +1,3 @@
+
+[$HOME/vr/brasero]
+checkout = git clone 'git://git.gnome.org/brasero' 'brasero'

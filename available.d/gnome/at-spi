@@ -1,3 +1,0 @@
-
-[$HOME/vr/gnome/at-spi]
-checkout = git clone 'git://git.gnome.org/at-spi' 'at-spi'

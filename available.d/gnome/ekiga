@@ -1,3 +1,0 @@
-
-[$HOME/vr/gnome/ekiga]
-checkout = git clone 'git://git.gnome.org/ekiga' 'ekiga'

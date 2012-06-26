@@ -1,0 +1,3 @@
+
+[$HOME/vr/liblouisutdml]
+checkout = hg clone 'https://liblouisutdml.googlecode.com/hg/' 'liblouisutdml'

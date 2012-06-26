@@ -1,0 +1,3 @@
+
+[$HOME/vr/luispedro_org]
+checkout = git clone 'https://github.com/luispedro/luispedro_org.git' 'luispedro_org'

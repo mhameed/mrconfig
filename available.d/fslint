@@ -1,0 +1,3 @@
+
+[$HOME/vr/fslint]
+checkout = svn co 'http://fslint.googlecode.com/svn/trunk' 'fslint'

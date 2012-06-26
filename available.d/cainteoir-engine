@@ -1,0 +1,3 @@
+
+[$HOME/vr/cainteoir-engine]
+checkout = git clone 'https://github.com/rhdunn/cainteoir-engine.git' 'cainteoir-engine'

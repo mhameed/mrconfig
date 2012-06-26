@@ -1,0 +1,3 @@
+
+[$HOME/vr/mmhgitcms]
+checkout = git clone 'ssh://gitosis@fog.cs.bath.ac.uk/mmhgitcms' 'mmhgitcms'

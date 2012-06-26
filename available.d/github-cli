@@ -1,0 +1,3 @@
+
+[$HOME/vr/github-cli]
+checkout = git clone 'http://github.com/jsmits/github-cli.git' 'github-cli'

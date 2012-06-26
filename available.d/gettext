@@ -1,0 +1,3 @@
+
+[$HOME/vr/gettext]
+checkout = git clone 'git://git.savannah.gnu.org/gettext.git' 'gettext'

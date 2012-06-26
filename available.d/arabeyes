@@ -1,0 +1,3 @@
+
+[$HOME/vr/arabeyes]
+checkout = svn co 'https://svn.arabeyes.org/svn' 'arabeyes'

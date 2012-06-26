@@ -1,0 +1,3 @@
+
+[$HOME/vr/cs3mmh-lsrc]
+checkout = git svn clone 'https://vcs.bath.ac.uk/svn/cs3mmh-lsrc' 'cs3mmh-lsrc'

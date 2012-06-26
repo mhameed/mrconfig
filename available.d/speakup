@@ -1,0 +1,3 @@
+
+[$HOME/vr/speakup]
+checkout = git clone 'http://www.linux-speakup.org/speakup.git' 'speakup'
