@@ -1,0 +1,3 @@
+
+[$HOME/vr/gnome/gparted]
+checkout = git clone 'git://git.gnome.org/gparted' 'gparted'

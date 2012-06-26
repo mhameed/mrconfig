@@ -1,0 +1,3 @@
+
+[$HOME/vr/gnome/empathy]
+checkout = git clone 'git://git.gnome.org/empathy' 'empathy'

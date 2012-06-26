@@ -1,0 +1,3 @@
+
+[$HOME/vr/gnome/accerciser]
+checkout = git clone 'git://git.gnome.org/accerciser' 'accerciser'
