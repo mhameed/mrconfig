@@ -1,0 +1,3 @@
+
+[$HOME/vr/reminders]
+checkout = git clone 'git@bitbucket.org:mhameed/remindconfig.git' 'reminders'
