@@ -1,0 +1,3 @@
+
+[$HOME/vr/liblouis-commit]
+checkout = svn co 'https://liblouis.googlecode.com/svn' 'liblouis-commit'

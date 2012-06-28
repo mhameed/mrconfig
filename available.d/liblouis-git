@@ -1,0 +1,3 @@
+
+[$HOME/vr/liblouis-git]
+checkout = git svn clone 'https://liblouis.googlecode.com/svn' 'liblouis-git'
