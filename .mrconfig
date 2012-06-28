@@ -3,4 +3,8 @@ git_gc = git gc "$@"
 jobs = 15
 include = cat /usr/share/mr/*
 
+[$HOME/vr/mr]
+checkout = git clone 'git@github.com:mhameed/mrconfig' 'mr'
+
+
 include = cat ~/vr/mr/enabled.d/*
