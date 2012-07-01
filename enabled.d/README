@@ -1,0 +1,3 @@
+# simply simlink from available.d to enable a specific repo.
+# $ ln -s ../available.d/podcasts .
+

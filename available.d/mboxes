@@ -1,0 +1,3 @@
+
+[$HOME/vr/mboxes]
+checkout = git clone 'git@bitbucket.org:mhameed/mboxes.git' 'mboxes'
