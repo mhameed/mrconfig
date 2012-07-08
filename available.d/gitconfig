@@ -1,0 +1,3 @@
+
+[$HOME/vr/gitconfig]
+checkout = git clone 'git@bitbucket.org:mhameed/gitconfig.git' 'gitconfig'
