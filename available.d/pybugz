@@ -1,3 +1,3 @@
 
 [$HOME/vr/pybugz]
-checkout = svn co 'http://pybugz.googlecode.com/svn/trunk' 'pybugz'
+checkout = git clone 'https://github.com/williamh/pybugz.git'

@@ -1,0 +1,3 @@
+
+[$HOME/vr/wordlist]
+checkout = svn checkout 'https://wordlist.svn.sourceforge.net/svnroot/wordlist/trunk' 'wordlist'

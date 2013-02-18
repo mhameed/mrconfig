@@ -1,0 +1,3 @@
+
+[$HOME/vr/diceware]
+checkout = git clone 'https://github.com/akheron/diceware.py.git' 'diceware'
