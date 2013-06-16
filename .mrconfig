@@ -1,10 +1,10 @@
 [DEFAULT]
 git_gc = git gc "$@"
-jobs = 15
+jobs = 5
+
 include = cat /usr/share/mr/*
 
 [$HOME/vr/mr]
 checkout = git clone 'git@github.com:mhameed/mrconfig' 'mr'
 
-
-include = cat ~/vr/mr/enabled.d/*
+include = find ~/vr/mr/enabled.d/* -type l -exec cat '{}' \+
