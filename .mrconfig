@@ -1,5 +1,11 @@
 [DEFAULT]
 git_gc = git gc "$@"
+
+git_fetch = git fetch --all --tags --prune --quiet
+svn_fetch = svn update -quiet --accept postpone
+git_update = git pull --quiet
+svn_update = svn update --quiet --accept postpone
+
 jobs = 5
 
 include = cat /usr/share/mr/*
