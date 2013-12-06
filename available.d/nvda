@@ -1,0 +1,4 @@
+
+[$HOME/vr/nvda]
+checkout = git clone 'git@bitbucket.org:nvdaaddonteam/nvda-mrconfig' 'nvda'
+chain = true

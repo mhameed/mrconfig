@@ -1,4 +1,0 @@
-
-[$HOME/vr/nvda-mr]
-checkout = git clone 'git@bitbucket.org:mhameed/nvda-mr' 'nvda-mr'
-chain = true
