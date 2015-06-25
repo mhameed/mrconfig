@@ -1,0 +1,88 @@
+#!/usr/bin/env bash
+#set -x
+
+generalizedrepopath() {
+    repopath=$(echo "$1" | sed "s+$HOME+\$HOME+" )
+    echo "$repopath"
+}
+
+getrepopath() {
+    p=$(readlink -f "$1")
+    repoTopLevel=$(git -C "$p" rev-parse --show-toplevel 2>/dev/null)
+    echo "$repoTopLevel"
+}
+
+isregisteredrepo() {
+    rp=$(getrepopath "$1")
+    grp=$(generalizedrepopath "$rp")
+    if [ "$grp" == "" ]; then
+        echo "Not a repo."
+        return 1
+    fi
+    if ! grep -r "$grp" ~/.mrconfig ~/vr/mr/available.d/; then
+        echo "Not registered."
+        return 1
+    fi
+}
+
+registerrepo() {
+    # repopath
+    rp=$(getrepopath "$1")
+    grp=$(generalizedrepopath "$rp")
+    # reponame
+    rn=$(basename "$rp")
+    # isregistered
+    isr=$(isregisteredrepo "$rp")
+    if [ "$isr" != "not registered" ]; then
+        echo "repo already registered, nothing to do."
+        exit 1
+    fi
+    filename="$HOME/vr/mr/available.d/${rp##${HOME}/vr/}"
+    echo "filename is: $filename"
+    mkdir -p $(dirname "$filename")
+    mr -c "$filename" register
+    # replace the expanded ~ with the "$HOME variable
+    sed -i "s+\[$HOME+\[\$HOME+" $filename
+    # create a symlink in enabled.d
+    lnk="${filename/available.d/enabled.d}"
+    mkdir -p $(dirname "$lnk")
+    ln -s "$filename"  "$lnk"
+}
+
+checkrepodirs() {
+    find ~/vr/ -type d | grep -vi "\.git" | grep -vi ".svn" |
+    while read dirname; do
+        rp=$(getrepopath "$dirname")
+        if [ "$rp" == "" ]; then
+            output=$(isregisteredrepo "$dirname")
+        else
+            output=$(isregisteredrepo "$rp")
+        fi
+
+        if [ "$rp" == "$dirname" ] && [ "$output" == "Not registered." ] \
+            && ! grep -qP "^${rp}$" ~/vr/.mr-helper-ignore 2>/dev/null; then
+            echo "$dirname not registered."
+        elif [ "$output" == "Not a repo." ] \
+            && ! grep -qP "^${dirname}$" ~/vr/.mr-helper-ignore 2>/dev/null; then
+            echo "$dirname not a repo."
+        fi
+    done
+}
+
+usage() {
+    echo "Available commands:"
+    echo "check, isregistered, register"
+}
+
+if [ "$1" == "" ]; then
+    usage
+    exit 0
+elif [ "$1" == "register" ]; then
+    registerrepo `pwd`
+elif [ "$1" == "isregistered" ]; then
+    isregisteredrepo `pwd`
+elif [ "$1" == "check" ]; then
+    checkrepodirs
+else
+    usage
+fi
