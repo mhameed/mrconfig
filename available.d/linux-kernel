@@ -1,0 +1,3 @@
+
+[$HOME/vr/linux-kernel]
+checkout = git clone 'git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git' 'linux-kernel'

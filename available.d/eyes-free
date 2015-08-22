@@ -1,0 +1,2 @@
+[$HOME/vr/eyes-free]
+checkout = svn co 'http://eyes-free.googlecode.com/svn' 'eyes-free'

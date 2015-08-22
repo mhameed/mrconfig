@@ -1,0 +1,3 @@
+
+[$HOME/vr/androidannotations]
+checkout = git clone 'https://github.com/excilys/androidannotations' 'androidannotations'
