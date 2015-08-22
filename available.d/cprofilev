@@ -1,0 +1,3 @@
+
+[$HOME/vr/cprofilev]
+checkout = git clone 'https://github.com/ymichael/cprofilev' 'cprofilev'
