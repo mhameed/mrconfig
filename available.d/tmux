@@ -1,0 +1,3 @@
+
+[$HOME/vr/tmux]
+checkout = git clone 'http://github.bath.ac.uk/cs3mmh/tmux' 'tmux'

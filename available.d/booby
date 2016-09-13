@@ -1,0 +1,3 @@
+
+[$HOME/vr/booby]
+checkout = git clone 'https://github.com/jaimegildesagredo/booby' 'booby'

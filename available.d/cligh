@@ -1,0 +1,3 @@
+
+[$HOME/vr/cligh]
+checkout = git clone 'https://github.com/CMB/cligh' 'cligh'

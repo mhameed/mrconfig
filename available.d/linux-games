@@ -1,0 +1,3 @@
+
+[$HOME/vr/linux-games]
+checkout = git clone 'https://github.bath.ac.uk/amdl22/linux-games' 'linux-games'

@@ -1,0 +1,3 @@
+
+[$HOME/vr/uritemplate]
+checkout = git clone 'https://github.com/sigmavirus24/uritemplate' 'uritemplate'

@@ -1,0 +1,3 @@
+
+[$HOME/vr/obnam]
+checkout = git clone 'git://git.liw.fi/obnam' 'obnam'

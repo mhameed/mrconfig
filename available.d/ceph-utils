@@ -1,0 +1,3 @@
+
+[$HOME/vr/ceph-utils]
+checkout = git clone 'https://github.bath.ac.uk/server-storage/ceph-utils' 'ceph-utils'

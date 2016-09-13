@@ -1,0 +1,3 @@
+
+[$HOME/vr/gpgconfig]
+checkout = git clone 'https://github.bath.ac.uk/cs3mmh/gpgconfig' 'gpgconfig'
