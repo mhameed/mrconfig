@@ -1,0 +1,3 @@
+
+[$HOME/vr/plumbum]
+checkout = git clone 'https://github.com/tomerfiliba/plumbum' 'plumbum'

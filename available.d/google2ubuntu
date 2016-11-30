@@ -1,0 +1,3 @@
+
+[$HOME/vr/google2ubuntu]
+checkout = git clone 'https://github.com/benoitfragit/google2ubuntu' 'google2ubuntu'

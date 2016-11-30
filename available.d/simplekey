@@ -1,0 +1,3 @@
+
+[$HOME/vr/simplekey]
+checkout = git clone 'https://github.com/nyarly/simplekey' 'simplekey'

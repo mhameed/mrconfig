@@ -1,0 +1,3 @@
+
+[$HOME/vr/gnupg]
+checkout = git clone 'git://git.gnupg.org/gnupg.git' 'gnupg'
