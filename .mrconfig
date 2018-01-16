@@ -10,7 +10,7 @@ jobs = 5
 
 include = cat /usr/share/mr/*
 
-[$HOME/vr/mr]
-checkout = git clone 'git@github.com:mhameed/mrconfig' 'mr'
+[$HOME/vr/mrconfig]
+checkout = git clone 'git@github.com:mhameed/mrconfig' 'mrconfig'
 
-include = find ~/vr/mr/enabled.d/* -type l -exec cat '{}' \+
+include = find ~/vr/mrconfig/enabled.d/* -type l -exec cat '{}' \+
