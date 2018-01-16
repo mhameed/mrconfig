@@ -1,0 +1,2 @@
+[$HOME/vr/chatLogs]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/chatLogs.git' 'chatLogs'

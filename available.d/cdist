@@ -1,0 +1,2 @@
+[$HOME/vr/cdist]
+checkout = git clone 'git@github.com:mhameed/cdist.git' 'cdist'

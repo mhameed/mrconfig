@@ -1,0 +1,2 @@
+[$HOME/vr/grubconfig]
+checkout = git clone 'https://github.bath.ac.uk/cs3mmh/grubconfig' 'grubconfig'

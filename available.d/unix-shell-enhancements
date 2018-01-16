@@ -1,0 +1,2 @@
+[$HOME/vr/unix-shell-enhancements]
+checkout = git clone 'git@github.bath.ac.uk:CorporateApplicationsAndDatabases/unix-shell-enhancements.git' 'unix-shell-enhancements'

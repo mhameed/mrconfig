@@ -1,0 +1,2 @@
+[$HOME/vr/ldomUtilities]
+checkout = git clone 'https://cs3mmh@github.bath.ac.uk/CorporateApplicationsAndDatabases/ldomUtilities' 'ldomUtilities'

@@ -1,0 +1,2 @@
+[$HOME/vr/energy]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/energy.git' 'energy'

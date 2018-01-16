@@ -1,0 +1,2 @@
+[$HOME/vr/pure_atira_config]
+checkout = git clone 'https://github.bath.ac.uk/CorporateApplicationsAndDatabases/pure_atira_config' 'pure_atira_config'

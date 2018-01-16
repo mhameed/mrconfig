@@ -1,0 +1,2 @@
+[$HOME/vr/SITS.Scripts]
+checkout = git clone 'https://github.bath.ac.uk/CorporateApplicationsAndDatabases/SITS.Scripts' 'SITS.Scripts'

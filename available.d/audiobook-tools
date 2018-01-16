@@ -1,0 +1,2 @@
+[$HOME/vr/audiobook-tools]
+checkout = git clone 'https://github.com/mhameed/audiobook-tools' 'audiobook-tools'
