@@ -1,0 +1,2 @@
+[$HOME/vr/mortgage]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/mortgage.git' 'mortgage'

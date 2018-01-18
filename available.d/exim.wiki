@@ -1,0 +1,2 @@
+[$HOME/vr/exim.wiki]
+checkout = git clone 'https://github.com/Exim/exim.wiki.git' 'exim.wiki'

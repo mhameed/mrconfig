@@ -1,0 +1,2 @@
+[$HOME/vr/debian-installer]
+checkout = git clone 'git://git.debian.org/d-i/debian-installer.git' 'debian-installer'

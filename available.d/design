@@ -1,0 +1,2 @@
+[$HOME/vr/design]
+checkout = git clone 'https://cs3mmh@github.bath.ac.uk/cs3mmh/design' 'design'
