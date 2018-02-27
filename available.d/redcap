@@ -1,0 +1,2 @@
+[$HOME/vr/redcap]
+checkout = git clone 'git@github.bath.ac.uk:CorporateApplicationsAndDatabases/redcap' 'redcap'

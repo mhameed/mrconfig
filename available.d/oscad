@@ -1,0 +1,2 @@
+[$HOME/vr/oscad]
+checkout = git clone 'git@github.bath.ac.uk:cs3mmh/oscad' 'oscad'

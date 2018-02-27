@@ -1,0 +1,2 @@
+[$HOME/vr/landlordForms]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/landlordForms.git' 'landlordForms'

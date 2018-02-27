@@ -1,0 +1,2 @@
+[$HOME/vr/daisyTransform]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/daisyTransform.git' 'daisyTransform'

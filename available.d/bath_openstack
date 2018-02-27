@@ -1,0 +1,2 @@
+[$HOME/vr/bath_openstack]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/openstack.git' 'bath_openstack'

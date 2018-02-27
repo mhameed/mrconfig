@@ -1,0 +1,2 @@
+[$HOME/vr/ssl_crts]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/ssl_crts.git' 'ssl_crts'

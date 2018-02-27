@@ -1,0 +1,2 @@
+[$HOME/vr/oracle_dbca]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/oracle_dbca.git' 'oracle_dbca'
