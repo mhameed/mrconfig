@@ -1,0 +1,2 @@
+[$HOME/vr/osmand-api-demo]
+checkout = git clone 'https://github.com/osmandapp/osmand-api-demo' 'osmand-api-demo'
