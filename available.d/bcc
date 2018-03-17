@@ -1,0 +1,2 @@
+[$HOME/vr/bcc]
+checkout = git clone 'git@github.bath.ac.uk:bcc/bcc' 'bcc'

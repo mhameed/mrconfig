@@ -1,0 +1,2 @@
+[$HOME/vr/microservice_test_api]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/microservice_test_api.git' 'microservice_test_api'

@@ -1,0 +1,2 @@
+[$HOME/vr/breaker]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/breaker.git' 'breaker'
