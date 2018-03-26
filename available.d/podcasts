@@ -1,4 +1,4 @@
 
 [$HOME/vr/podcasts]
-checkout = git clone 'git@bitbucket.org:mhameed/podcasts.git' 'podcasts'
+checkout = git clone 'git@git.mesarhameed.info:mhameed/podcasts.git' 'podcasts'
 dl = git annex --quiet sync vserver && git annex --quiet move --from=vserver
