@@ -1,0 +1,2 @@
+[$HOME/vr/droid_dictation]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/droid_dictation.git' 'droid_dictation'

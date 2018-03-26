@@ -1,0 +1,2 @@
+[$HOME/vr/dictatekeyboard]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/dictatekeyboard.git' 'dictatekeyboard'
