@@ -1,5 +1,5 @@
 [$HOME/vr/annex]
-checkout = git clone git@bitbucket.org:mhameed/annex.git
+checkout = git clone git@git.mesarhameed.info:mhameed/annex.git
 add = git annex add "$@"
 get = git annex get "$@"
 
