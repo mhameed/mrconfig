@@ -1,0 +1,2 @@
+[$HOME/vr/mesarhameed.info]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/mesarhameed.info.git' 'mesarhameed.info'
