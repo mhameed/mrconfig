@@ -1,0 +1,2 @@
+[$HOME/vr/ucu-congress-2018]
+checkout = git clone 'git@github.bath.ac.uk:cs3mmh/ucu-congress' 'ucu-congress-2018'
