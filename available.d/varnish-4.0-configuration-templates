@@ -1,0 +1,2 @@
+[$HOME/vr/varnish-4.0-configuration-templates]
+checkout = git clone 'https://github.com/mattiasgeniar/varnish-4.0-configuration-templates' 'varnish-4.0-configuration-templates'

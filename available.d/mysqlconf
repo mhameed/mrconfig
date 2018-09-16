@@ -1,0 +1,2 @@
+[$HOME/vr/mysqlconf]
+checkout = git clone 'git@github.bath.ac.uk:cs3mmh/mysqlconfig' 'mysqlconf'

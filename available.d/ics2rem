@@ -1,0 +1,2 @@
+[$HOME/vr/ics2rem]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/ics2rem.git' 'ics2rem'

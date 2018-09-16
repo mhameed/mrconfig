@@ -1,0 +1,2 @@
+[$HOME/vr/socat_games]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/socat_games.git' 'socat_games'

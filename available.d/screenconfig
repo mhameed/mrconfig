@@ -1,0 +1,2 @@
+[$HOME/vr/screenconfig]
+checkout = git clone 'git@git.mesarhameed.info:mhameed/screenconfig.git' 'screenconfig'

@@ -1,0 +1,2 @@
+[$HOME/vr/Oracle.Orafiles]
+checkout = git clone 'git@github.bath.ac.uk:CorporateApplicationsAndDatabases/Oracle.Orafiles' 'Oracle.Orafiles'
