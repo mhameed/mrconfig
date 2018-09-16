@@ -6,7 +6,7 @@ svn_fetch = svn update -quiet --accept postpone
 git_update = git pull --quiet
 svn_update = svn update --quiet --accept postpone
 
-jobs = 5
+jobs = 1
 
 include = cat /usr/share/mr/*
 
