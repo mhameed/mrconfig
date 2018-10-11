@@ -1,0 +1,2 @@
+[$HOME/vr/ergodox-ez]
+checkout = git clone 'https://github.com/ErgoDox-EZ/docs' 'ergodox-ez'
