@@ -1,2 +1,2 @@
 [$HOME/vr/misc_notes]
-checkout = git clone 'git@lithium.mesarhameed.info:mhameed/misc_notes.git' 'misc_notes'
+checkout = git clone 'git@git.mesarhameed.info:mhameed/misc_notes.git' 'misc_notes'
