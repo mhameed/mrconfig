@@ -1,2 +1,0 @@
-[$HOME/vr/vocalizerMultiLang]
-checkout = git clone 'ssh://gitosis@fog.cs.bath.ac.uk/vocalizerMultiLang' 'vocalizerMultiLang'
