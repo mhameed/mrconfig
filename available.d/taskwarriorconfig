@@ -1,2 +1,3 @@
+
 [$HOME/vr/taskwarriorconfig]
-checkout = git clone 'git@git.mesarhameed.info:mhameed/taskwarriorconfig.git' 'taskwarriorconfig'
+checkout = git clone 'git@git.hameed.info:common/taskwarriorconfig.git' 'taskwarriorconfig'

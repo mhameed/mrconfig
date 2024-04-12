@@ -1,2 +1,3 @@
+
 [$HOME/vr/gitolite-admin]
-checkout = git clone 'git@git.mesarhameed.info:/gitolite-admin' 'gitolite-admin'
+checkout = git clone 'git@git.hameed.info:gitolite-admin' 'gitolite-admin'

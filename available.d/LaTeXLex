@@ -1,3 +1,3 @@
 
 [$HOME/vr/LaTeXLex]
-checkout = git clone 'git@github.com:mhameed/LaTeXLex.git' 'LaTeXLex'
+checkout = git clone 'https://github.com/mhameed/LaTeXLex.git' 'LaTeXLex'

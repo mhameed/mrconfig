@@ -1,2 +1,3 @@
+
 [$HOME/vr/remindconfig]
-checkout = git clone 'git@git.mesarhameed.info:mhameed/remindconfig.git' 'remindconfig'
+checkout = git clone 'git@git.hameed.info:mhameed/remindconfig.git' 'remindconfig'

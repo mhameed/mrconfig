@@ -1,2 +1,2 @@
 [$HOME/vr/1a]
-checkout = git clone 'git@git.mesarhameed.info:mhameed/1a.git' '1a'
+checkout = git clone 'git@git.hameed.info:mhameed/1a.git' '1a'

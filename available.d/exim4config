@@ -1,2 +1,3 @@
+
 [$HOME/vr/exim4config]
-checkout = git clone 'git@github.bath.ac.uk:cs3mmh/exim4config' 'exim4config'
+checkout = git clone 'git@git.hameed.info:mhameed/exim4config.git' 'exim4config'
